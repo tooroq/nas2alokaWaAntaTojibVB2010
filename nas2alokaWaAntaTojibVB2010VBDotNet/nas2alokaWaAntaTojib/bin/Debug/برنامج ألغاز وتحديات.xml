@@ -1,0 +1,213 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+برنامجألغازوتحديات
+</name>
+</assembly>
+<members>
+<member name="M:chineYoutubeTimer.Form1.loadDataInternetMysql">
+	<summary>
+ '''''''''''
+ </summary>
+	<remarks></remarks>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources._58348_alarm_icon_cartoon_timer_clock_free_photo_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources._58348_alarm_icon_cartoon_timer_clock_free_photo_png1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.back1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.back2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.bbbb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.bbbb1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.bbbb2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.bbbb3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.bkrandfadae">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.bngbtnshadow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.bpng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn_a">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn_a1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn_b">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn_black">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn_d">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn_j">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn_q">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.btn2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.ccc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.ccc1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.colortrue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.colortrue1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.hq720">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.iconfalse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.iconfalse32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.icontrue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.icontrue32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.imgs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.let_and_var">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.let_and_var1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.logo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.sport">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.sport1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.sport2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.Untitled_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.Untitled_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.Untitled_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.vista">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.vista1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:chineYoutubeTimer.My.Resources.Resources.برنامج_تحديات_والغاز">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:chineYoutubeTimer.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

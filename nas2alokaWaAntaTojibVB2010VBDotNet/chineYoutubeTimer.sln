@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "nas2alokaWaAntaTojib", "nas2alokaWaAntaTojib\chineYoutubeTimer.vbproj", "{558242EB-883C-4AF0-A8B0-75045148A348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558242EB-883C-4AF0-A8B0-75045148A348}.Debug|x86.ActiveCfg = Debug|x86
+		{558242EB-883C-4AF0-A8B0-75045148A348}.Debug|x86.Build.0 = Debug|x86
+		{558242EB-883C-4AF0-A8B0-75045148A348}.Release|x86.ActiveCfg = Release|x86
+		{558242EB-883C-4AF0-A8B0-75045148A348}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
